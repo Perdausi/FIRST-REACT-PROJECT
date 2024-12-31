@@ -23,7 +23,7 @@ export default function Joblisting({job}) {
 
                 <button onClick={handleOnclick} className="transition text-indigo-500 hover:text-indigo-700 py-2">{showFullDescription ? "less" : "more"}</button>
 
-                <p className="text-indigo-400 mt-4">{job.salary}/Year</p>
+                <p className="text-green-600 mt-4">{job.salary}/Year</p>
                 <p className="text-red-400 mt-4">{job.location}</p>
                     <div className="flex items-center justify-center">
                         <Link to={`/jobs/${job.id}`} className="text-center mt-8 rounded bg-indigo-500 py-2 w-full text-white hover:bg-indigo-700 transition">Read More</Link>
