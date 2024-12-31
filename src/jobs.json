@@ -1,0 +1,102 @@
+{
+  "jobs": [
+    {
+      "id": "4",
+      "title": "Intern React Developer",
+      "type": "Part-Time",
+      "description": "We are seeking a talented front-end developer to join out team in Boston, MA. The ideal candidate will have strong skills in HTML,CSS and JavaScript",
+      "location": "remote",
+      "salary": "$50k",
+      "company": {
+        "name": "Vintazk2.0",
+        "description": "Vintazk is a leading Company specializing in Web Development and digital Solutions, We pride ourselves on delivering high quality products and services to out clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "Vintazk@solution.com",
+        "contactPhone": "09317151484"
+      }
+    },
+    {
+      "id": "sdsad",
+      "title": "React Developer",
+      "type": "Full-Time",
+      "description": "We are seeking a talented front-end developer to join out team in Boston, MA. The ideal candidate will have strong skills in HTML,CSS and JavaScript",
+      "location": "remote",
+      "salary": "$50k",
+      "company": {
+        "name": "Vintazk",
+        "description": "Vintazk is a leading Company specializing in Web Development and digital Solutions, We pride ourselves on delivering high quality products and services to out clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "Vintazk@solution.com",
+        "contactPhone": "09317151484"
+      }
+    },
+    {
+      "id": "42",
+      "title": "React (Reduxing)",
+      "type": "Part-Time",
+      "description": "We are seeking a talented front-end developer to join out team in Boston, MA. The ideal candidate will have strong skills in HTML,CSS and JavaScript",
+      "location": "remote",
+      "salary": "$50k",
+      "company": {
+        "name": "Vintazk",
+        "description": "Vintazk is a leading Company specializing in Web Development and digital Solutions, We pride ourselves on delivering high quality products and services to out clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "Vintazk@solution.com",
+        "contactPhone": "09317151484"
+      }
+    },
+    {
+      "id": "6",
+      "title": "Back-end Developer",
+      "type": "Full-Time",
+      "description": "We are seeking a talented front-end developer to join out team in Boston, MA. The ideal candidate will have strong skills in HTML,CSS and JavaScript",
+      "location": "Boston, MA",
+      "salary": "$90 - $100k",
+      "company": {
+        "name": "BackSolution",
+        "description": "BackSolution is a leading Company specializing in Back-end Development and digital Solutions, We pride ourselves on delivering high quality products and services to out clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "BackSolution@solution.com",
+        "contactPhone": "0878446597946"
+      }
+    },
+    {
+      "id": "5233",
+      "title": "Full-Stack Developer",
+      "type": "Full-Time",
+      "description": "we are looking for someone who can do all the task including UI-UX frontend and backend can work under pressure and can think positive whatever happen. we are looking for someone who can do all the task including UI-UX frontend and backend can work under pressure and can think positive whatever happen. we are looking for someone who can do all the task including UI-UX frontend and backend can work under pressure and can think positive whatever happen. we are looking for someone who can do all the task including UI-UX frontend and backend can work under pressure and can think positive whatever happen. ",
+      "location": "Zamboanga,RD",
+      "salary": "$90 - $110K",
+      "company": {
+        "name": "DAUTECH",
+        "description": "Our Company is a foreign based where offering a remote job and also know in web development industry",
+        "contactEmail": "testing@gmail.com",
+        "contactPhone": "999-999-999"
+      }
+    },
+    {
+      "id": "d634",
+      "title": "React typeScript Dev",
+      "type": "Full-Time",
+      "description": "We don't really need React TypeScript Dev this is just a testing for this web project :>",
+      "location": "Zamboanga,RD",
+      "salary": "$90 - $110K",
+      "company": {
+        "name": "Geegle",
+        "description": "we are just random company that made to test this web",
+        "contactEmail": "ber@yahoo.com",
+        "contactPhone": "022-222-20"
+      }
+    },
+    {
+      "id": "219d",
+      "title": "Senior React Developer",
+      "type": "Full-Time",
+      "description": "We are looking for someone who is really experienced in using ReactJS for our company ",
+      "location": "Japan, TYK",
+      "salary": "$90 - $110K",
+      "company": {
+        "name": "BakaTechyan",
+        "description": "BakaTechyan company is a Old comapany for solely dedicated web development that until now is still great.",
+        "contactEmail": "baka@test.com",
+        "contactPhone": "111-111-11"
+      }
+    }
+  ]
+}
