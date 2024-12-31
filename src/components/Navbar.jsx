@@ -12,7 +12,7 @@ export default function Navbar() {
        
     }
 
-   const linkClass = ({isActive}) => isActive ? "text-white text-lg transition text-md border w-24 text-center py-1 rounded hover:bg-white hover:text-indigo-600 transition hover:border-none" : "text-white text-md transition text-lg  w-24 text-center py-1 rounded hover:bg-white hover:text-indigo-600 transition hover:border-none" 
+   const linkClass = ({isActive}) => isActive ? "text-indigo-800 text-lg transition text-md bg-white w-24 text-center py-1 rounded hover:bg-white hover:text-indigo-600 transition hover:border-none" : "text-white text-md transition text-lg  w-24 text-center py-1 rounded hover:text-white transition hover:border" 
     return (
         <nav className={`border-b shadows-lg bg-indigo-700 fixed top-0 right-0 w-full`}>
             <div className='flex items-center justify-between gap-5 px-10 py-5'
